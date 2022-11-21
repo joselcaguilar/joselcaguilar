@@ -52,6 +52,8 @@ I speak **Spanish** and **English** as well as:
 <p align="center">
   Find me as <b>@joselcaguilar</b>
   <p align="center">
+    <a href="https://joselcaguilar.com"><img src="https://svgshare.com/i/oHU.svg" height=30 /></a>
+    &nbsp;
     <a href="https://linkedin.com/in/joselcaguilar"><img src="https://svgshare.com/i/TTx.svg" height=30 /></a>
     &nbsp;
     <a href="https://twitter.com/joselcaguilar"><img src="https://svgshare.com/i/TWE.svg" height=30 /></a>
