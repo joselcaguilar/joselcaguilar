@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td>
-<p align="center"><a href="https://joselcaguilar.com"><img src="https://github-readme-stats.vercel.app/api?username=joselcaguilar&count_private=true&show_icons=true&theme=react&hide_border=true&hide=stars" /></a></p>
+<p align="center"><a href="https://joselcaguilar.com"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=joselcaguilar&count_private=true&show_icons=true&theme=react&hide_border=true&hide=stars" /></a></p>
     </td>
     <td>
-<p align="center"><a href="https://joselcaguilar.com"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=joselcaguilar&count_private=true&theme=react&hide_border=true" /></a></p>
+<p align="center"><a href="https://joselcaguilar.com"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=joselcaguilar&count_private=true&theme=react&hide_border=true" /></a></p>
     </td>
   </tr>
 </table>
