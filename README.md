@@ -52,11 +52,13 @@ I speak **English** and **Spanish** as well as:
 <p align="center">
   Find me as <b>@joselcaguilar</b>
   <p align="center">
-    <a href="https://linkedin.com/in/joselcaguilar"><img src="https://svgshare.com/i/TTx.svg" height=30 /></a>
+    <a href="https://linkedin.com/in/joselcaguilar"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height=30 /></a>
     &nbsp;
-    <a href="https://x.com/joselcaguilar"><img src="https://svgshare.com/i/TWE.svg" height=30 /></a>
+    <a href="https://x.com/JoseLCAguilar"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/X_logo_2023_%28white%29.svg" height=30 /></a>
     &nbsp;
-    <a rel="me" href="https://mastodon.social/@joselcaguilar"><img src="https://www.svgrepo.com/show/521747/mastodon.svg" height=30 /></a>
+    <a href="https://bsky.app/profile/social.joselcaguilar.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" height=30 /></a>
+    &nbsp;
+    <a rel="me" href="https://mastodon.social/@joselcaguilar"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mastodon_logotype_%28simple%29_new_hue.svg" height=30 /></a>
     &nbsp;
     <a href="https://www.buymeacoffee.com/joselcaguilar"><img src="https://cdn.iconscout.com/icon/free/png-512/buymeacoffee-3521318-2944737.png" height=30 /></a>
   </p>
