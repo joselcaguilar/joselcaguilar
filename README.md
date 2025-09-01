@@ -54,7 +54,13 @@ I speak **English** and **Spanish** as well as:
   <p align="center">
     <a href="https://linkedin.com/in/joselcaguilar"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height=30 /></a>
     &nbsp;
-    <a href="https://x.com/JoseLCAguilar"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/X_logo_2023_%28white%29.svg" height=30 /></a>
+    <a href="https://x.com/JoseLCAguilar">
+      <picture> 
+        <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/0/0a/X_logo_2023_%28white%29.svg" height=30>
+        <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" height=30>
+        <img alt="Shows the X black logo in light color mode and a white one in dark color mode.">
+      </picture>
+    </a>
     &nbsp;
     <a href="https://bsky.app/profile/social.joselcaguilar.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" height=30 /></a>
     &nbsp;
