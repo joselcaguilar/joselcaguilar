@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </table>
 </p>
 
-🔭 I’m a **Cloud Consultant** working @ [Microsoft](https://microsoft.com)
+🔭 I’m a **SR Cloud Consultant - Security and Infrastructure** working @ [Microsoft](https://microsoft.com)
 
 I speak **Spanish** and **English** as well as:
 <p>
