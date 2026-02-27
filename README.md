@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
 <p align="center">
 <table>
   <tr>
@@ -26,6 +28,7 @@ Here are some ideas to get you started:
   </tr>
 </table>
 </p>
+-->
 
 🔭 I’m a **Cloud Solution Architect - Infrastructure & DevOps** working @ [Microsoft](https://microsoft.com)
 
