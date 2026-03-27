@@ -30,7 +30,9 @@ Here are some ideas to get you started:
 </p>
 -->
 
-🔭 I’m a **Cloud Solution Architect - Infrastructure & DevOps** working @ [Microsoft](https://microsoft.com)
+- 🔭 I’m a **Cloud Solution Architect - Infrastructure & DevOps** working @ [Microsoft](https://microsoft.com)
+- 🥇 Top technical certifications achieved: Azure Solutions Architect Expert, Azure DevOps Engineer Expert, Azure Cybersecurity Architect Expert, GitHub Administrator, GitHub Advanced Security, GitHub Copilot, Terraform and [others](https://www.linkedin.com/in/joselcaguilar/details/certifications/)
+- 👟 Microsoft Certified Trainer (MCT)
 
 I speak **English** and **Spanish** as well as:
 <p>
@@ -56,6 +58,9 @@ I speak **English** and **Spanish** as well as:
   <img alt="Visual Studio" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white" />
   <img alt="Visual Studio Code" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white" />
 </p>
+
+## Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=joselcaguilar&theme=tokyonight)
 
 *******
 <p align="center">
